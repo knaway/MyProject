@@ -16,7 +16,13 @@ Execução:
   
   - Fazer instalação padrão e fechar o cmd que foi aberto
   
+  - Baxar o WebDriver Chrome conforme sua versão (https://chromedriver.chromium.org/downloads)
+  
+  - Extrair o WebDriver Chrome na pasta "C:\Windows"
+  
   - Acessar a pasta Desafio1 ou Desafio2 via cmd (ex.: cd Desafio1)
+  
+  - Instalar o bundle no ruby (ex.: bundle install)
   
   - Instalar o bundle do projeto (ex.: bundle install)
   
