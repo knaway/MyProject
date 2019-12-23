@@ -16,7 +16,7 @@ Execução:
   
   - Fazer instalação padão
   
-  - Acessar a pasta Desafio1 ou Desafio2via cmd (ex.: cd Desafio1)
+  - Acessar a pasta Desafio1 ou Desafio2 via cmd (ex.: cd Desafio1)
   
   - Instalar o bundle do projeto (ex.: bundle install)
   
