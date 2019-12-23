@@ -4,7 +4,7 @@
 
 Pré-requisitos:
 
-  Ter instalado o git no computador
+  - Ter instalado o git no computador
 
 Execução:
 
