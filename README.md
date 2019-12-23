@@ -1,6 +1,6 @@
 # Desafio QA
 
-# DESAFIO #1
+# Como executar
 
 Pré-requisitos:
 
