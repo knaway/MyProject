@@ -22,7 +22,7 @@ Execução:
   
   - Acessar a pasta Desafio1 ou Desafio2 via cmd (ex.: cd Desafio1)
   
-  - Instalar o bundle no ruby (ex.: bundle install)
+  - Instalar o bundler no ruby (ex.: gem install bundler)
   
   - Instalar o bundle do projeto (ex.: bundle install)
   
