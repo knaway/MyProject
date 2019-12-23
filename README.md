@@ -2,13 +2,9 @@
 
 # Como executar
 
-Pré-requisitos:
-
-  - Ter instalado o git no computador
-
 Execução:
 
-  - Clonar o repositório do gitHub (https://github.com/knaway/MyProject) ou fazer o download e extraí-lo
+  - Fazer o download e extraí-lo ou clonar o repositório do gitHub (https://github.com/knaway/MyProject)
   
   - Acessar o site http://railsinstaller.org/pt-BR
   
@@ -24,7 +20,7 @@ Execução:
   
   - Instalar o bundler no ruby (ex.: gem install bundler)
   
-  - Instalar o bundle do projeto (ex.: bundle install)
+  - Instalar o bundle do desafio sempre que acessá-lo (ex.: bundle install) 
   
   - Executar o teste via cmd (ex.: cucumber)
   
