@@ -8,13 +8,13 @@ Pré-requisitos:
 
 Execução:
 
-  - Clonar o repositório do gitHub (https://github.com/knaway/MyProject)
+  - Clonar o repositório do gitHub (https://github.com/knaway/MyProject) ou fazer o download e extraí-lo
   
   - Acessar o site http://railsinstaller.org/pt-BR
   
   - Baixar a versão 2.3
   
-  - Fazer instalação padão
+  - Fazer instalação padrão e fechar o cmd que foi aberto
   
   - Acessar a pasta Desafio1 ou Desafio2 via cmd (ex.: cd Desafio1)
   
