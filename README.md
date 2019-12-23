@@ -27,3 +27,5 @@ Execução:
   - Instalar o bundle do projeto (ex.: bundle install)
   
   - Executar o teste via cmd (ex.: cucumber)
+  
+  - Após a execução, é possivel verificar o relatório de log e a evidência do teste no arquivo features que estará na pasta log dentro de cada uma das pastas dos Desafios (Desafio1 ou Desafio2)
